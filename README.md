@@ -1,2 +1,3 @@
 # TickTacToeRust
-First project in rust
+First project in rust.
+Czy perfekto? Nie powiedziałbym.
